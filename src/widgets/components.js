@@ -88,6 +88,7 @@ const components = {
   overseerr: dynamic(() => import("./overseerr/component")),
   openmediavault: dynamic(() => import("./openmediavault/component")),
   openwrt: dynamic(() => import("./openwrt/component")),
+  openwebui: dynamic(() => import("./openwebui/component")),
   paperlessngx: dynamic(() => import("./paperlessngx/component")),
   pfsense: dynamic(() => import("./pfsense/component")),
   photoprism: dynamic(() => import("./photoprism/component")),

@@ -80,6 +80,7 @@ import opnsense from "./opnsense/widget";
 import overseerr from "./overseerr/widget";
 import openmediavault from "./openmediavault/widget";
 import openwrt from "./openwrt/widget";
+import openwebui from "./openwebui/widget";
 import paperlessngx from "./paperlessngx/widget";
 import peanut from "./peanut/widget";
 import pfsense from "./pfsense/widget";
@@ -216,6 +217,7 @@ const widgets = {
   overseerr,
   openmediavault,
   openwrt,
+  openwebui,
   paperlessngx,
   peanut,
   pfsense,

@@ -837,6 +837,10 @@
         "bytesTx": "Transmitted",
         "bytesRx": "Received"
     },
+    "openwebui": {
+        "version": "Version",
+        "models": "Models available"
+    },
     "uptimerobot": {
         "status": "Status",
         "uptime": "Uptime",

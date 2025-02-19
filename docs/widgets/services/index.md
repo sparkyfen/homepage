@@ -89,6 +89,7 @@ You can also find a list of all available service widgets in the sidebar navigat
 - [OpenDTU](opendtu.md)
 - [OpenMediaVault](openmediavault.md)
 - [OpenWRT](openwrt.md)
+- [Open WebUI](open-webui.md)
 - [OPNsense](opnsense.md)
 - [Overseerr](overseerr.md)
 - [PaperlessNGX](paperlessngx.md)
